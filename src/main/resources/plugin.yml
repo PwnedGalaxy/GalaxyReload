@@ -1,0 +1,5 @@
+name: GalaxyReload
+main: com.akpwebdesign.bukkit.GalaxyReload.GalaxyReloadPlugin
+version: ${project.version}
+author: AKPWebDesign
+description: This plugin stops you from reloading Pwned Galaxy, you fucking faggot.
